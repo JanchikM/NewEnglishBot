@@ -1,0 +1,12 @@
+[
+  {"model": "words", "fields": {"en_word": "Watch", "translation":"Часы", "is_public" : true}},
+  {"model": "words", "fields": {"en_word": "Dance", "translation":"Танец", "is_public" : true}},
+  {"model": "words", "fields": {"en_word": "barrel", "translation":"Бочка", "is_public" : true}},
+  {"model": "words", "fields": {"en_word": "Beautiful", "translation":"Красивый", "is_public" : true}},
+  {"model": "words", "fields": {"en_word": "Walk", "translation":"Гулять", "is_public" : true}},
+  {"model": "words", "fields": {"en_word": "Sit", "translation":"Сидеть", "is_public" : true}},
+  {"model": "words", "fields": {"en_word": "Lecture", "translation":"Лекция", "is_public" : true}},
+  {"model": "words", "fields": {"en_word": "Manifesto", "translation":"Манифест", "is_public" : true}},
+  {"model": "words", "fields": {"en_word": "Cookie", "translation":"Печенье", "is_public" : true}},
+  {"model": "words", "fields": {"en_word": "Water", "translation":"Вода", "is_public" : true}}
+]
